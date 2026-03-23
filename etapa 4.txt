@@ -1,0 +1,13 @@
+Etapa 4: Conclusão
+
+Após mapear, a tela mostra como será exibido na lista de leads, emails possuem 1 sinal de alerta caso o conteudo nao seja considerado email email@provider.com
+
+Ao clicar em Completar importação inicia o processo, podendo demorar bastante tempo de acordo com tamanho do arquivo(quantidade de leads, colunas/linhas da tabela).
+O Sistema permite navegar na plataforma do crm normalmente enquanto faz o processo de importação, recebendo notificação de quando o processo é finalizado.
+
+também se sair no meio de 1 mapeamento de importação, indo na pagina leads, é possivel notar 1 botão pendente.
+
+Interface:
+Voltar Completar importação
+Botão voltar, volta para etapa anterior.
+Botão excluir, cancela toda a operação.

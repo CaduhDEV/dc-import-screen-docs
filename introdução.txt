@@ -1,0 +1,32 @@
+Dados do Lead:
+
+OBS: por se tratar de planilha, todos os campos sao campos de texto, 
+Mas alguns formatos como data, numero de telefone, precisam estar no formato correto. 
+
+Nome (Campo de texto)
+Telefone (DDI DDD NUMERO)
+Email <string> (Email: precisa de @provedor.)
+Documento (Campo de texto)
+Empresa (Campo de texto)
+Endereço (Campo de texto)
+Número (Campo de texto)
+Bairro (Campo de texto)
+Cidade (Campo de texto)
+UF (Campo de texto)
+País (Campo de texto)
+Data de nascimento <Date: ISO, DD-MM-AAAA, MM-DD-AAAA>
+Origem (Campo de texto)
+CEP (Campo texto)
+Complemento de Endereço (Campo de texto)
+Notas (Campo de texto)
+
+# Documentar depois essa etapa: Se trata de importação de negócios com produto/tags etc. (etapa da pipeline)
+
+Pipeline
+Etapa
+Produto
+SKU Produto 
+Tags
+ID do negócio
+Campo Adicional do Lead 
+Campo Adicional do Negócio

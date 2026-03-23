@@ -1,0 +1,26 @@
+Etapa 3: Tela de Atribuições
+
+Adicione informações importantes para todos os seus leads de uma só vez, facilitando a organização e o processo.
+
+
+Tela de formulário onde o cliente pode definir os seguintes campos:
+
+Campo 1:
+Você pode definir tags para todos os leads q estão sendo importados.
+Também tendo um atalho para criar 1 nova tag para esses leads.
+
+Campo 2: Produtos 
+Pode por produtos vinculados aos leads importados.
+Também contém atalho de criar novo produto para esses leads.
+
+Campo 3: Pipeline
+Pode inicia-los já dentro de uma pipeline.
+
+Campo 4: DDI de telefones
+padronizar os DDIs de todos os leads que estão sendo importados
+(só deve ser utilizados se todos os leads forem do mesmo país) 
+porque o sistema colocará 1 prefixo que virá antes dos dados da célula da planilha de telefones.
+
+Interface:
+Botão voltar, volta para etapa anterior.
+Botão proximo avança

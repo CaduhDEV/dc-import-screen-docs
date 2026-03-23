@@ -1,0 +1,22 @@
+# BUG Report -> Impossível importar Leads de países distintos na mesma planilha.
+
+Descrição:
+Durante a importação eu não consigo importar leads de paises distintos na mesma planilha, 
+porque o sistema me obriga escolher um DDI na tela de importação passo 2.
+
+Exemplo:
+Ao tentar importar Leads com números de países com DDI diferentes, perde os números de contatos do lead, 
+porque insere um DDI padrão (possível escolher 1 DDI para todos os leads do processo de importação), porém
+num caso onde o cliente quer importar clientes de DDIS dinstintos, os numeros são cortados pelo limite de caracteres
+e ainda ficam com o DDI selecionado na etapa 2 da importação.
+
+// COLOCAR Imagem da etapa e como fica.
+
+
+# BUG Report 2 -> Painel CRM trava ao tentar importar uma planilha csv.
+
+Descrição:
+estou tentando importar uma planilha identica porém em formato csv, 
+e o crm simplesmente travou, não acusa nada nos logs, nem no network, nem no console web.
+
+# IGNORAR ESSES BUGS pq ja foram corrigidos.

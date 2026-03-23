@@ -1,0 +1,14 @@
+Etapa 1: Importação do Arquivo.
+Formatos suportados: xlsx,cls
+Peso Máximo do arquivo: 4mb
+Observação: Não tem como enviar multiplos arquivos num único processo de importação.
+
+O que deve conter na planilha?
+A planilha deve ser mapeada pelo client, quando o sistema lê o arquivo, ele mostra as colunas e o usuário deve definir qual a coluna correta para cada informação que será alimentada, exemplo: o qual a coluna de telefone do lead? o cliente define. vale ressaltar que se ele definir 1 coluna de texto para telefone, os telefones não serão preenchidos corretamente, todo o processo correto de importação depende do usuário definir corretamente os campos.
+Caso minha planilha tenha cabeçarios(normalmente tem quando se era utilizada em outro lugar), o client tem o togle "ignorar cabeçarios" que basicamente tem a função de ignorar toda a primeira linha da planilha, por entender que só se trata do nome das colunas.
+
+Após escolher o arquivo para upload, ele carrega a interface de mapeamento ao usuário, onde o cliente definirá as colunas e qual variavel será alimentada.
+
+Interface:
+Botão voltar, cancela o upload
+Botão proximo avança

@@ -1,0 +1,10 @@
+Etapa 2: Verificações
+
+O Sistema insere um UX visual da planilha, com a opção de ignorar cabeçarios, onde o usuario precisa mapear todas as colunas da planilha, dizendo pro 
+sistema qual coluna é qual, para o sistema entender e mapear os dados a serem inseridos.
+
+Notei que formatos de datas suportados atualmente é: DD-MM-AAAA, DD-MM-AA, AAAA-MM-DD, AAAA-DD-MM, ISO, Timestamp
+
+Interface:
+Botão voltar, volta para etapa anterior.
+Botão proximo avança
