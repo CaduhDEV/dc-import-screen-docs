@@ -124,22 +124,6 @@ Visualize uma prévia dos dados antes da importação final.
 - **Botão Voltar:** Retorna à etapa anterior
 - **Botão Excluir:** Cancela toda a operação
 
-## Bugs Conhecidos
-
-### Bug 1: Impossível Importar Leads de Países Distintos
-**Descrição:** O sistema obriga a seleção de um único DDI na Etapa 3, impedindo a importação de leads com números de países diferentes.
-
-**Impacto:** Números de telefone são truncados ou incorretamente formatados quando leads de múltiplos países são importados.
-
-**Status:** Reportado - requer correção no sistema de DDI.
-
-### Bug 2: Travamento ao Importar CSV
-**Descrição:** O painel CRM trava completamente ao tentar importar arquivos CSV idênticos aos XLSX.
-
-**Sintomas:** Sem erros nos logs, network ou console do navegador.
-
-**Status:** Reportado - requer investigação do processamento de CSV.
-
 ## Gerador de Leads para Testes QA
 
 Para facilitar os testes de capacidade de importação de dados pela equipe de QA, foi desenvolvido um script Python (`gerador_leads.py`) que gera leads fictícios em massa.
