@@ -11,9 +11,9 @@ Todos os campos na planilha são tratados como texto, mas alguns requerem format
 | Campo | Tipo | Descrição | Formato Exemplo |
 |-------|------|-----------|-----------------|
 | Nome | Texto | Nome completo do lead | João Silva |
-| Telefone | Texto | Número com DDI e DDD | +55 11 99999-9999 |
+| Telefone | Texto | Número com DDI e DDD | 5511999999999 |
 | Email | Texto | Endereço de email válido | joao@email.com |
-| Documento | Texto | CPF, RG ou ID | 123.456.789-00 |
+| Documento | Texto | Documento | 12345678900 |
 | Empresa | Texto | Nome da empresa | Empresa XYZ |
 | Endereço | Texto | Rua/avenida | Rua das Flores |
 | Número | Texto | Número do endereço | 123 |
